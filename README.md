@@ -1,6 +1,6 @@
 # PDF Rule Checker
 
-A full-stack application that leverages AI to validate PDF documents against custom rules. Built as part of the NIYAMR AI 48-Hour Developer Assignment.
+A full-stack application that leverages AI to validate PDF documents against custom rules. Built as part of the NIYAMR AI .
 
 ## 🚀 Features
 
